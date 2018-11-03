@@ -1,0 +1,23 @@
+{
+  "name": "xfluzz",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "iHurkan",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "chance": "^1.0.16",
+    "cleverbot-node": "^0.3.11",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "generate-password": "^1.4.1",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.1.1"
+  }
+}
